@@ -7,3 +7,4 @@ else:
 number = int(input("Введіть число: "))
 range(input)
 print(range)
+print("hello")
